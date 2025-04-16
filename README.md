@@ -1,4 +1,4 @@
-## HW-2
+## Assignment-2
 
 Reimplement the code in the `bouncingballs.py` file from the lecture repository into a new file named `HW2.py` by following the requirements below. Ensure that the game **runs properly** and that **all conditions are met simultaneously**.
 
