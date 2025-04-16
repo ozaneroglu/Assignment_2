@@ -18,6 +18,8 @@ Reimplement the code in the `bouncingballs.py` file from the lecture repository 
 
 The balls should bounce off the window borders, as in the original `bouncingballs.py` implementation. Additionally, pressing the **Up Arrow** key should increase the speed of all balls, while pressing the **Down Arrow** key should decrease their speed.
 
+##  Due Date: 24 April, 10AM
+
 
 ### Additional Notes
 
@@ -25,3 +27,5 @@ The balls should bounce off the window borders, as in the original `bouncingball
 
   ```bash
   pip install pygame
+
+  
